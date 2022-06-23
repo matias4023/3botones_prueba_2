@@ -1,0 +1,4 @@
+﻿cl : línea de comandos warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  StaticDI.cpp
+C:\Advantech\DAQNavi\Examples\C++_Console\DI_StaticDI\StaticDI.cpp(134,10): warning C4244: 'argumento': conversión de 'double' a 'DWORD'; posible pérdida de datos
+  StaticDI.vcxproj -> C:\Advantech\DAQNavi\Examples\C++_Console\bin\debug\DI_StaticDI.exe
